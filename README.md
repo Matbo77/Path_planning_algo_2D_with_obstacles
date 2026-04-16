@@ -16,7 +16,7 @@ So far 2 algorithm have been developped:
 
 ## 📈 Visualize Results
 
-<img alt="System" src="pictures/rrt_test_2" width="80%" height="80%"> </img>
+<img alt="System" src="pictures/rrt_test_2.png" width="50%" height="50%"> </img>
 
 <img alt="System" src="pictures/rrt_star_test_2.png" width="50%" height="50%"> </img>
 
@@ -30,15 +30,11 @@ So far 2 algorithm have been developped:
 Contributions are welcome!
 
 Future improvements could include:
-- New controller implementations including sliding mode control (SMC),
-- Improved robustness tests,
-- Assess controllers tracking performance on more comprehensive reference trajectories,
-- Documentation enhancements.
+- New path planning algo
+
 
 ---
 
 ## 📚 References
 
-1. Menouar MEZIANI and Mourad AKKOUL. “Modélisation et simulation
-d’un pendule inversé”. In: Mémoire de fin d’étude de MASTER
-ACADEMIQUE Spécialité : AUTOMATIQUE. Université Mouloud
+1. [Rapidly-Exploring Random Tree Github repo]([https://github.com/ssong47/Inverted_Pendulum_Cart_Simulation](https://github.com/r-shima/rrt))
