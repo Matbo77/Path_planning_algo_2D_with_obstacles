@@ -37,4 +37,4 @@ Future improvements could include:
 
 ## 📚 References
 
-1. [Rapidly-Exploring Random Tree Github repo]([https://github.com/ssong47/Inverted_Pendulum_Cart_Simulation](https://github.com/r-shima/rrt))
+1. [Rapidly-Exploring Random Tree Github repo](https://github.com/r-shima/rrt)
