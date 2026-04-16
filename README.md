@@ -3,7 +3,7 @@ Implementation of path planning algorithms (RRT, RRT*, etc.) in a 2D environment
 
 
 <a href= "https://img.shields.io/badge/github-repo-blue?logo=github"> <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub Badge"/></a>
-<a href= "https://img.shields.io/badge/Python-orange"> <img src="https://img.shields.io/badge/Python-R_2022b-orange" alt="Python Badge"/></a>
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 <a href= "https://img.shields.io/badge/License-MIT-yellow"> <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License Badge"/></a>
 
 ---
@@ -16,9 +16,9 @@ So far 2 algorithm have been developped:
 
 ## 📈 Visualize Results
 
-<img alt="System" src="pictures/rrt_test_2.png" width="50%" height="50%"> </img>
+<img alt="RRT" src="pictures/rrt_test_2.png" width="50%" height="50%"> </img>
 
-<img alt="System" src="pictures/rrt_star_test_2.png" width="50%" height="50%"> </img>
+<img alt="RRT*" src="pictures/rrt_star_test_2.png" width="50%" height="50%"> </img>
 
 ---
 
