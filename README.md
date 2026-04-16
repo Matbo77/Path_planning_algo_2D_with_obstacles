@@ -12,7 +12,7 @@ Implementation of path planning algorithms (RRT, RRT*, etc.) in a 2D environment
 
 So far 2 algorithm have been developped:
 - Rapidly exploring random tree **RRT**, 
-- Rapidly exploring random tree star **RRT^{\ast}**
+- Rapidly exploring random tree star **RRT\***
 
 ## 📈 Visualize Results
 
