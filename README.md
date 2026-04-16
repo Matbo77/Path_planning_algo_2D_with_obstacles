@@ -1,5 +1,5 @@
 # Path_planning_algo_2D_with_obstacles
-Implementation of path planning algorithms (RRT, RRT*, etc.) in a 2D environment containing obstacles.
+Implementation of simple path planning algorithms (RRT, RRT*, etc.) in a 2D environment containing obstacles.
 
 
 <a href= "https://img.shields.io/badge/github-repo-blue?logo=github"> <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub Badge"/></a>
