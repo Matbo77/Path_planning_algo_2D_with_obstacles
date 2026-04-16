@@ -3,7 +3,7 @@ Implementation of path planning algorithms (RRT, RRT*, etc.) in a 2D environment
 
 
 <a href= "https://img.shields.io/badge/github-repo-blue?logo=github"> <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub Badge"/></a>
-<a href= "https://img.shields.io/badge/Python-R_2022a-orange"> <img src="https://img.shields.io/badge/Python-R_2022b-orange" alt="Python Badge"/></a>
+<a href= "https://img.shields.io/badge/Python-orange"> <img src="https://img.shields.io/badge/Python-R_2022b-orange" alt="Python Badge"/></a>
 <a href= "https://img.shields.io/badge/License-MIT-yellow"> <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License Badge"/></a>
 
 ---
