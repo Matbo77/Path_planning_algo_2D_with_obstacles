@@ -10,7 +10,7 @@ Implementation of path planning algorithms (RRT, RRT*, etc.) in a 2D environment
 
 ## 📌 Overview
 
-So far 2 algorithm have been developped:
+So far 2 algorithms have been developped:
 - Rapidly exploring random tree **RRT**, 
 - Rapidly exploring random tree star **RRT\***
 
@@ -30,7 +30,7 @@ So far 2 algorithm have been developped:
 Contributions are welcome!
 
 Future improvements could include:
-- New path planning algo
+- New path planning algo (like Linear-quadratic regulator rapidly exploring random tree)
 
 
 ---
