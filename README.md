@@ -10,7 +10,7 @@ Implementation of simple path planning algorithms (RRT, RRT*, etc.) in a 2D envi
 
 ## 📌 Overview
 
-So far 3 algorithms have been developped:
+So far 3 algorithms have been implemented:
 - Probabilistic roadmap **PRM**
 - Rapidly exploring random tree **RRT**, 
 - Rapidly exploring random tree star **RRT\***
