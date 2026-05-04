@@ -14,6 +14,7 @@ So far 3 algorithms have been implemented:
 - Probabilistic roadmap **PRM** (with **A\***),
 - Rapidly exploring random tree **RRT**, 
 - Rapidly exploring random tree star **RRT\***
+- Informed Rapidly exploring random tree star **Informed RRT\***
 
 ## 📈 Visualize Results
 
@@ -22,6 +23,8 @@ So far 3 algorithms have been implemented:
 <img alt="RRT" src="pictures/rrt_animation.gif" width="50%" height="50%"> </img>
 
 <img alt="RRT*" src="pictures/rrt_star_animation.gif" width="50%" height="50%"> </img>
+
+<img alt="RRT*" src="pictures/rrt_star_informed_animation.gif" width="50%" height="50%"> </img>
 
 ---
 
