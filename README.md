@@ -17,7 +17,7 @@ So far 3 algorithms have been implemented:
 
 ## 📈 Visualize Results
 
-<img alt="RRT" src="pictures/prm_test_2.png" width="50%" height="50%"> </img>
+<img alt="RRT" src="pictures/prm_star_animation.gif" width="50%" height="50%"> </img>
 
 <img alt="RRT" src="pictures/rrt_animation.gif" width="50%" height="50%"> </img>
 
