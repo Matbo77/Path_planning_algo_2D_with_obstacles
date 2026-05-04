@@ -14,8 +14,8 @@ So far 3 algorithms have been implemented:
 - Probabilistic roadmap **PRM** (with **A\***),
 - Rapidly exploring random tree **RRT**, 
 - Rapidly exploring random tree star **RRT\***,
-- Informed rapidly exploring random tree star **Informed RRT\***
-- Kinodynamic Rapidly-Exploring Random Tree **Kynodynamic RRT**
+- Informed rapidly exploring random tree star **Informed RRT\***,
+- Kinodynamic rapidly exploring random tree **Kynodynamic RRT**
 
 ## 📈 Visualize Results
 
