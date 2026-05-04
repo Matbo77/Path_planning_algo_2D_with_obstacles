@@ -25,9 +25,9 @@ So far 3 algorithms have been implemented:
 
 <img alt="RRT*" src="pictures/rrt_star_animation.gif" width="50%" height="50%"> </img>
 
-<img alt="RRT*" src="pictures/rrt_star_informed_animation.gif" width="50%" height="50%"> </img>
+<img alt="Informed RRT*" src="pictures/rrt_star_informed_animation.gif" width="50%" height="50%"> </img>
 
-<img alt="RRT*" src="pictures/kino_rrt_test_1.png" width="50%" height="50%"> </img>
+<img alt="kino-RRT" src="pictures/kino_rrt_test_1.png" width="50%" height="50%"> </img>
 
 ---
 
